@@ -1,3 +1,17 @@
+# Flipkart Product Analysis
+
+**Created by: Syeda Nashra Fatima**
+
+## About Me
+I am an aspiring Data Analyst interested in analyzing data, identifying trends, and turning data into meaningful insights.
+
+## Skills
+- SQL (MySQL)
+- Microsoft Excel
+- Data Analysis
+- Dashboard Creation and Reporting
+- Data Visualization
+- Git and GitHub
 # Flipkart Product Listings Analysis
 
 ## Project Overview
